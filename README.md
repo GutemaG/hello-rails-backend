@@ -14,20 +14,13 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -65,13 +58,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **Genereate sample greeting messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -86,13 +75,6 @@ In order to run this project you need:
   - Ruby
   - Rails
   - Node
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -135,7 +117,6 @@ To run the project, execute the following command:
 - Twitter: [@birhanugudisa3](https://twitter.com/birhanugudisa3)
 - LinkedIn: [birhanugudisa](https://linkedin.com/in/birhanugudisa)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -144,14 +125,6 @@ To run the project, execute the following command:
 - [ ] **Add more greeting messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-Feel free to check the [issues page](https://github.com/GutemaG/hello-rails-react.git/issue).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## 📝 License <a name="license"></a>
 
